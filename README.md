@@ -1,0 +1,2 @@
+- Hi, I’m @PetrFlajsingr
+- I’m interested in computer graphics & modern C++.
